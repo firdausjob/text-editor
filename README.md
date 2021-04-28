@@ -1,3 +1,20 @@
+# REACT Typescript Rich Text Editor
+This component was build from several libraries package that can be view on package.json
+
+## resources
+https://jpuri.github.io/react-draft-wysiwyg/#/docs .\
+https://www.npmjs.com/package/react-draft-wysiwyg .\
+https://www.npmjs.com/package/@types/html-to-draftjs .\
+https://codesandbox.io/s/vbv5y .\
+https://reactrocket.com/post/draft-js-persisting-content/ .\
+https://www.npmjs.com/package/react-wysiwyg-typescript#usage .\
+https://github.com/remarkablemark/html-react-parser .\
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
