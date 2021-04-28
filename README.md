@@ -1,6 +1,11 @@
 # REACT Typescript Rich Text Editor
 This component was build from several libraries package that can be view on package.json
 
+## try on SandBox
+
+https://codesandbox.io/s/github/firdausjob/text-editor
+
+
 ## resources
 https://jpuri.github.io/react-draft-wysiwyg/#/docs .\
 https://www.npmjs.com/package/react-draft-wysiwyg .\
